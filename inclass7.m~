@@ -57,5 +57,4 @@ findORF(genbank_dat.Sequence)
 protein=getgenpept('NP_001256.3');
 protein.Features
 %The Homeobox domain is between 190 aa and 242 aa. 
-%for the DNA loc is on chromosome 13q12.2
 
